@@ -30,7 +30,9 @@
     'website': 'http://www.camptocamp.com/',
     'data': [
         'data/decimal_precision.yml',
+        'security/product_standard_margin_security.xml',
         'views/view.xml',
+
     ],
     'license': 'AGPL-3',
 }
